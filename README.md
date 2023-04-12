@@ -12,7 +12,7 @@ To build the project you need:
 
 Please note gulp in this project was configured with the nodeJS v18.
 
-You can see the current deploy here: https://valentynfediuk.github.io/robeauty/dist/
+You can see the current deploy here: https://valentynfediuk.github.io/RoBeauty/dist/
 
 # How emoji animation works:
 
