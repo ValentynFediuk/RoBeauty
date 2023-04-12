@@ -23,7 +23,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: url("../img/header-bg.jpg");
+  background: #fff;
   background-size: cover;
   background-position: center;
   width: 100%;
